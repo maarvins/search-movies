@@ -46,12 +46,11 @@ $ git clone https://github.com/maarvins/search-movies.git && cd search-movies
 Follow the steps below
 
 ```bash
-# Install the dependencies
-$ npm install
+//Instalar dependências
+    $ yarn install 
 
-
-# Start the project
-$ npm start
+    //Startar o projeto
+    $yarn startstart
 ```
 
 ## 💻 Project
